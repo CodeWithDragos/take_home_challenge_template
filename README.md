@@ -2,7 +2,7 @@
 
 *TODO: [ADD_TASK_REQUIREMENTS_HERE]*
 
-Solution by [Sophie Lewis](mailto:sophie@codewithdragos.com)
+By [Sophie Lewis](mailto:sophie@codewithdragos.com)
 
 ## Proposed Solution
 
