@@ -10,18 +10,17 @@ By [Sophie Lewis](mailto:sophie@codewithdragos.com)
 - break down the steps you followed
 - use bullet points to explain it in a very structured way
 
-## Libraries / Tools Used
-
-- Express.js for the http server
-- Jest for testing
-- ...
-
 ## Screenshots
 ![Swagger File](screens/swagger_demo.png "Swagger Demo")
 
 ## Sequence Diagrams
 ![Sequence Diagram](screens/token_auth_sequence.png "Sequence Diagram")
 
+## Libraries / Tools Used
+
+- Express.js for the http server
+- Jest for testing
+- ...
 
 ## Setup
 
